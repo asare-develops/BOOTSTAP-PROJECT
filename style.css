@@ -1,0 +1,9 @@
+@media (min-width: 768px){
+.overflow-card:first-child{
+  margin-right: -20px;
+  z-index: 2;
+}
+.overflow-card:last-child{
+  margin-left: -20px;
+}
+}
